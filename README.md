@@ -7,13 +7,14 @@ An interactive Python tool to calculate the total **value** and **weight** of Eu
 ## 🚀 Features
 
 - Choose between:
-  - **Coins only**
-  - **Banknotes only**
-  - **Both coins and banknotes**
-- Input validation with retry option
-- Calculates the **total value**
-- Calculates the **total weight** of coins in grams
-- Visual progress bar while counting
+  - ✅ Coins only
+  - ✅ Banknotes only
+  - ✅ Both coins and banknotes
+- Validates user input with retry option
+- Calculates:
+  - 💶 Total **value** in euros
+  - ⚖️ Total **weight** of coins (in grams)
+- Animated progress bars via `rich.progress`
 
 ---
 
