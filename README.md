@@ -92,7 +92,7 @@ Total value of your coins: 0.46€
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://mit-license.org)
 
 ---
 
